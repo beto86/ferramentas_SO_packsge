@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: ferramentas-SO
+Version: 0.0.1
+Summary: ferramentas usadas para redes geralmente
+Home-page: https://github.com/beto86/ferramentas_SO_packsge.git
+Author: Roberto_Rocha
+Author-email: beto.brava@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # ferramentas_SO
 Description. 
 The package ferramentas_SO is used to:
@@ -59,3 +71,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 '''
+
